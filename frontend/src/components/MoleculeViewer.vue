@@ -1,2 +1,2 @@
 <template>
-  <div class="bg-s
+  <div
